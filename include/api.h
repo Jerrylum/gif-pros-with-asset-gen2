@@ -77,4 +77,6 @@
 #include "pros/link.hpp"
 #endif
 
+#include "asset.h"
+
 #endif  // _PROS_API_H_
